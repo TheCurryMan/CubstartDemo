@@ -2,4 +2,3 @@ Apples
 Carrots
 Bananas
 Lettuce
-Milk
